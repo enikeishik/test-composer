@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "\\Ufocms\\Modules\\TCP\\": "src/Modules/TCP/"
+            "\\Ufocms\\Modules\\TCP\\": "src/Modules/TCP/",
             "\\Ufocms\\AdminModules\\TCP\\": "src/AdminModules/TCP/"
         }
     },
